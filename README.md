@@ -52,7 +52,9 @@ Now copy and paste the following in Discord [Operators | Start Here] :
 
 **Just replace:**
 `your-address` → your operator Ethereum address
+
 `block-number` → the block number shown as ✅ Block Number
+
 `proof:` → the sync proof array shown after 🔗 Sync Proof:
 
 # Discord Link - [https://discord.gg/aztec](https://discord.gg/aztec)
