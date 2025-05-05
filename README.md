@@ -22,7 +22,9 @@ Note : There’s no official confirmation of any rewards, airdrop, or incentives
 
 ## STEPS
 
-- Install the required code as per your system either via `git clone https://github.com/Solana0x/aztec-network.git` or if you have curl installed then via `curl -fsSL https://raw.githubusercontent.com/Solana0x/aztec-network/main/linux.sh | bash` For Linux/ windows and `curl -fsSL https://raw.githubusercontent.com/Solana0x/aztec-network/main/macos.sh | bash` for the macos users ...
+- Install the required code as per your system either via `git clone https://github.com/Solana0x/aztec-network.git`
+- or if you have curl installed then via `curl -fsSL https://raw.githubusercontent.com/Solana0x/aztec-network/main/linux.sh | bash`
+- For Linux/ windows and `curl -fsSL https://raw.githubusercontent.com/Solana0x/aztec-network/main/macos.sh | bash` for the macos users ...
 - Once installation is done then execute the script via `bash macos.sh` or `bash linux.sh` as per your system.
 - Once Script starts running fill the `Sepolia RPC` and `Beacon Sepolia RPC` , evm `Pvt key` , `public key` and fund your wallet with some Sepolia testnet ETH.
 - Once Script is running in other screen you just need to run this command after 10-20 Mins to get your Latest Block and proof to get the role !!
