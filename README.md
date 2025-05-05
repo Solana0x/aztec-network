@@ -59,7 +59,7 @@ Now copy and paste the following in Discord [Operators | Start Here] :
 
 # Discord Link - [https://discord.gg/aztec](https://discord.gg/aztec)
 
-
+<img width="314" alt="image" src="https://github.com/user-attachments/assets/1e4bde0c-0ac1-455b-aed4-23c0f1f66bce" />
 
 ## FOR ANY KIND OF HELP CONTACT : ` 0xphatom ` on Discord  https://discord.com/users/979641024215416842
 
